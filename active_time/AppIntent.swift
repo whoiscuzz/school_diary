@@ -2,7 +2,7 @@
 //  AppIntent.swift
 //  active_time
 //
-//  Created by Анна on 9.12.25.
+//  
 //
 
 import WidgetKit
